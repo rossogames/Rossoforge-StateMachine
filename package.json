@@ -1,0 +1,16 @@
+{
+  "name": "com.rossogames.rossoforge-state_machine",
+  "version": "1.0.0-beta1",
+  "displayName": "Rossoforge-StateMachine",
+  "description": "Basic state machine implementation for Unity.",
+  "unity": "2025.0",
+  "author": {
+    "name": "Agustin Rosso",
+    "url": "https://www.linkedin.com/in/rossoagustin/"
+  },
+  "keywords": [
+    "state machine",
+    "rossogames",
+    "rossoforge"
+  ]
+}
