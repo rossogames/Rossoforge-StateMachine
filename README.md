@@ -9,10 +9,12 @@
 
 **Rossoforge-StateMachine** It's a basic state machine implementation for Unity.
 
-**Version**: Unity 6 or higher
+#
+**Version:** Unity 6 or higher
 
-**Tutorial**: Pending
+**Tutorial:** [Pending...]
 
+**Dependencies:**
 
 #
 This package is part of the **Rossoforge** suite, designed to streamline and enhance Unity development workflows.
