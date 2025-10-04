@@ -1,6 +1,6 @@
 {
   "name": "com.rossogames.rossoforge-state_machine",
-  "version": "1.0.0-beta1",
+  "version": "1.2.0",
   "displayName": "Rossoforge-StateMachine",
   "description": "Basic state machine implementation for Unity.",
   "unity": "2025.0",
