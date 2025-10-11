@@ -30,9 +30,9 @@ namespace Rossoforge.StateMachine
                     PreviousState = CurrentState;
                     CurrentState = nextState;
                     await Awaitable.NextFrameAsync();
-                    CurrentState.Enter();
                 }
 
+                CurrentState.Enter();
                 IsTransitionInProgress = false;
             }
         }
